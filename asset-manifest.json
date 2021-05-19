@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/amazonweb/static/css/main.667bc1a7.chunk.css",
+    "main.js": "/amazonweb/static/js/main.34880739.chunk.js",
+    "main.js.map": "/amazonweb/static/js/main.34880739.chunk.js.map",
+    "runtime-main.js": "/amazonweb/static/js/runtime-main.004bcf58.js",
+    "runtime-main.js.map": "/amazonweb/static/js/runtime-main.004bcf58.js.map",
+    "static/css/2.74c02967.chunk.css": "/amazonweb/static/css/2.74c02967.chunk.css",
+    "static/js/2.3e9a66b1.chunk.js": "/amazonweb/static/js/2.3e9a66b1.chunk.js",
+    "static/js/2.3e9a66b1.chunk.js.map": "/amazonweb/static/js/2.3e9a66b1.chunk.js.map",
+    "index.html": "/amazonweb/index.html",
+    "static/css/2.74c02967.chunk.css.map": "/amazonweb/static/css/2.74c02967.chunk.css.map",
+    "static/css/main.667bc1a7.chunk.css.map": "/amazonweb/static/css/main.667bc1a7.chunk.css.map",
+    "static/js/2.3e9a66b1.chunk.js.LICENSE.txt": "/amazonweb/static/js/2.3e9a66b1.chunk.js.LICENSE.txt",
+    "static/media/android.ee1d9508.jpeg": "/amazonweb/static/media/android.ee1d9508.jpeg",
+    "static/media/app.8714f365.jpeg": "/amazonweb/static/media/app.8714f365.jpeg",
+    "static/media/digital.dad8270c.jpeg": "/amazonweb/static/media/digital.dad8270c.jpeg",
+    "static/media/hero-img.53f1b546.png": "/amazonweb/static/media/hero-img.53f1b546.png",
+    "static/media/img2.d12e2a27.svg": "/amazonweb/static/media/img2.d12e2a27.svg",
+    "static/media/marketing.f629aa39.jpg": "/amazonweb/static/media/marketing.f629aa39.jpg",
+    "static/media/s1.8e51e67d.jpg": "/amazonweb/static/media/s1.8e51e67d.jpg",
+    "static/media/software.1cb4dc77.jpeg": "/amazonweb/static/media/software.1cb4dc77.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.004bcf58.js",
+    "static/css/2.74c02967.chunk.css",
+    "static/js/2.3e9a66b1.chunk.js",
+    "static/css/main.667bc1a7.chunk.css",
+    "static/js/main.34880739.chunk.js"
+  ]
+}
